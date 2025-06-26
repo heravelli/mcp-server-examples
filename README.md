@@ -3,7 +3,7 @@
 ## Setup
 
 ```bash
-cd map-server
+cd mcp-server
 python -m venv .venv
 source .venv/bin/activate
 pip install fastmcp streamlit databricks-sdk requests python-dotenv
